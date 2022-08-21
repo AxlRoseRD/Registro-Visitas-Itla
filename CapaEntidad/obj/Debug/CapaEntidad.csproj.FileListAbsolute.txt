@@ -1,0 +1,6 @@
+C:\Users\axcel\Downloads\Registro-Visitantes-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\axcel\Downloads\Registro-Visitantes-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\axcel\Downloads\Registro-Visitantes-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\axcel\Downloads\Registro-Visitantes-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\axcel\Downloads\Registro-Visitantes-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\axcel\Downloads\Registro-Visitantes-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
